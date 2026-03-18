@@ -1,1 +1,28 @@
+1.Pacjent udaje się do przychodni.
+1A.1.Pacjent umawia się na wizytę telefonicznie.
+1A.1.A.1.Pacjenta nie ma w bazie danych.
+1A.1.A.2.W rejestracjii zakładana jest karta pacjenta.
+1A.2.Wszystkie linie zajęte(powrót do 1.).
+1B.1.Pacjent rejestruje się przez internet.
+1B.2.Pacjent podaje niewłaściwe dane(powrót do 1.).
+1B.2.A.1.Pacjenta nie ma w bazie danych.
+1B.2.A.2.Pacjent podaje swoje dane do karty pacjenta.
+1B.2.A.2.A.1.Pacjent podaje niewłaściwe dane(powrót do 1.).
+1B.2.A.2.A.2.Pacjent zakłada kartę pacjenta.
+2.Pacjent potwierdza swoją wizytę w rejestracji.
+2A.1.Pacjenta nie ma w bazie danych.
+2A.2.W rejestracji zakładają kartę Pacjentowi.
+3.Pacjent po odebraniu numerka oczekuje na wizytę lub zabieg.
+4.Pacjent(po wywołaniu) udaje się na wizytę.
+5.Lekarz odczytuje z Bazy Danych kartę pacjenta zapoznając się z kluczowymi informacjami.
+6.Lekarz przeprowadza wywiad z Pacjentem i wykonuje podstawowe badania.
+6.A.1.Lekarz potrzebując dodatkowych informacji zleca Pacjentowi wykonanie badań
+6.A.1.A.1.Na miejscu w Gabinecie Zabiegowym.
+6.A.1.A.2.Po przyjściu Pacjenta Pielęgniarka wykonuje badania.
+6.A.1.A.2.Wyniki badań są dodane do karty pacjenta w Bazie Danych.
+6.A.1.A.3.Pacjent wraca kontynując wizytę lekarską.
+6.A.1.A.4.A.1.Lekarz zleca dodatkowe badania(powrót do 6.A.1.)
+6.A.1.B.1.Zleca wizyte u Lekarza Specjalisty.
+7.Lekarz wpisuje przebieg wizyty do Bazy Danych.
+8.Po przeprowadzonej diagnozie Pacjent zna zalecenia lekarza.
 
