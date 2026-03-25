@@ -1,0 +1,11 @@
+1. Rejestracja pacjenta.
+1.A. Pacjent rejestruje się przez internet.
+1.B. Pacjent rejstruje się poprzez rozmowę telefoniczną.
+1.C. Pacjent rejestruje się w przychodni (stacjonarnie).
+1.D*.  Tworzenie nowej karty pacjenta.
+
+2. Dodatkowe badania zlecone podczas wizyty lekarskiej.
+
+3. Wpis informacji o wizycie do bazy danych.
+
+
